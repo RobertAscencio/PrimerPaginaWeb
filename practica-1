@@ -1,0 +1,37 @@
+<html>
+   <head>
+	<title>
+		Ejemplo
+	</title>
+   </head>
+   <body>
+   <BODY bgcolor="#999999">
+   </body>
+	<header>
+		<h1> html 5 </h1>
+<p>
+HTML5  es la ultima version de HTML. El termino representa dos conceptos diferentes:<br/>
+Se trata de una nueva version de HTML, con nuevos elementos, atributos y comportamientos.<br/>
+Contiene un conjunto mas amplio de tecnologias que permite a los sitios Web y a las aplicaciones<br/>
+ser mas diversas y de gran alcance.<br/>
+
+</p>
+	</header>
+   <nav>
+       <ul>
+<a href="http://google.com.mx">
+         <li>google</li></a>
+<a href="http://fsf.org">
+	 <li>Fsf</li></a>
+<a href="http://facebook.com">
+	 <li>Facebook</li></a>
+       </ul>
+   </nav>
+<img src="html.jpe">
+<h1>CSS</h1>
+<p>
+Es la tecnologia desarrollada por el World Wide Web Consortium (W3C)<br/>
+ con el fin de separar la estructura de la presentacion.<br/>
+</p>
+<img src="CSS.jpg">
+</html>
